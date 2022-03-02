@@ -1,10 +1,10 @@
 
 <h3> 👨‍💻 &nbsp;Sobre mim </h3>
 
-- 🤔 &nbsp; Buscando novos conhecimentos, em prol do desenvolvimento profissional
+- 🤔 &nbsp; Sempre almejando novos conhecimentos, em prol do desenvolvimento e qualidade profissional.
 - 🎓 &nbsp; Pós Graduado em **Engenharia de Software com ênfase em Qualidade e Teste de Software**.
-- 💼 &nbsp; Trabalhando como **Analista de Qualidade PL** na <a href="https://gera.com.br/">Gera</a>
-
+- :desktop_computer: &nbsp; Amante da Tecnologia da Informação!
+- :page_facing_up: &nbsp; Certified: **KIKF / SFPC / VCA-DCV**
 
 
 <h3> :rocket: &nbsp;Tecnologias & Ferramentas </h3>
@@ -30,3 +30,8 @@
 
 
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
+
+<div>
+<a href = "mailto:contato@RaphaelAristides@Hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/victor-aristides-b435821b3/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>
