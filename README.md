@@ -1,7 +1,7 @@
 
 <h3> 👨‍💻 &nbsp;Sobre mim </h3>
 
-- 🤔 &nbsp; Sempre almejando novos conhecimentos, em prol do desenvolvimento e qualidade profissional.
+- 🥇 &nbsp; Sempre almejando novos conhecimentos, em prol do desenvolvimento e da qualidade profissional.
 - 🎓 &nbsp; Pós Graduado em **Engenharia de Software com ênfase em Qualidade e Teste de Software**.
 - :desktop_computer: &nbsp; Amante da Tecnologia da Informação!
 - :page_facing_up: &nbsp; Certified: **KIKF / SFPC / VCA-DCV**
